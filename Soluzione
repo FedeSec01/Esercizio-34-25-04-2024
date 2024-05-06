@@ -1,0 +1,4 @@
+Isolamento: Tecnica che permette di limitare l'accesso dell'attaccante alla rete interna. Si può fare in molti modi dall'introdurre firewall ad una separazione di tipo fisico della rete.
+Rimozione: Tecnica più invasiva che comporta l'eliminazione dalla rete della macchina infetta.
+Purge: L'approccio di purge implica l'utilizzo di misure logiche e fisiche per l'eliminazione permanente dei dati su un disco o dispositivo di storage. 
+Destroy: L'approccio di destroy comporta la distruzione fisica del disco o del dispositivo di storage. Tuttavia è più costoso e non sempre si può, o ha senso, farlo.
